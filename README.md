@@ -14,7 +14,7 @@ Source code is not published here.
 
 Go to the **Releases** page:
 
-https://github.com/monkuma/LogMaru-releases/releases
+https://github.com/monkuma/LogMaru-releases/releases/latest
 
 ## Installation
 
