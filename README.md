@@ -3,6 +3,7 @@
 Release repository for **LogMaru**.
 
 LogMaru is a Windows desktop application for categorized logging and time tracking.
+It helps you record activities, organize them by category, and visualize your time usage — all locally.
 
 This repository contains **release builds only**.  
 Source code is not published here.
