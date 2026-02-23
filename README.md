@@ -13,7 +13,7 @@ Source code is not published here.
 
 Go to the **Releases** page:
 
-https://github.com/monkuma/LogMaru-downloads/releases
+https://github.com/monkuma/LogMaru-releases/releases
 
 ## Installation
 
