@@ -1,4 +1,4 @@
-# LogMaru Downloads
+# LogMaru
 
 Release repository for **LogMaru**.
 
