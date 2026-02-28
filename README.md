@@ -1,5 +1,7 @@
 # LogMaru
 
+[![GitHub Downloads](https://img.shields.io/github/downloads/monkuma/LogMaru-releases/total.svg?style=for-the-badge&labelColor=32312f&color=fdf3e3)](https://github.com/monkuma/LogMaru-releases/releases)
+
 Release repository for **LogMaru**.
 
 LogMaru is a Windows desktop application for categorized logging and time tracking.
