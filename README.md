@@ -24,6 +24,11 @@ https://github.com/monkuma/LogMaru-releases/releases/latest
 2. Run the installer
 3. Follow the setup wizard
 
+## Data & Privacy
+
+All data is stored locally on your machine.
+LogMaru does not collect or transmit any personal data.
+
 ## Support the Project
 
 If LogMaru is useful to you, consider giving it a ⭐ on GitHub.
