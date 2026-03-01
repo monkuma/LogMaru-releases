@@ -1,6 +1,14 @@
-# LogMaru
-
-[![GitHub Downloads](https://img.shields.io/github/downloads/monkuma/LogMaru-releases/total.svg?style=for-the-badge&labelColor=32312f&color=fdf3e3)](https://github.com/monkuma/LogMaru-releases/releases)
+<div align="center">
+  <h1>LogMaru</h1>
+  <br><br>
+  <a href="https://github.com/monkuma/LogMaru-releases/releases/latest">
+    <img src="https://img.shields.io/github/v/release/monkuma/LogMaru-releases?style=for-the-badge&label=Latest%20Release&labelColor=32312f&color=fdf3e3" />
+  </a>
+  <a href="https://github.com/monkuma/LogMaru-releases/releases">
+    <img src="https://img.shields.io/github/downloads/monkuma/LogMaru-releases/total.svg?style=for-the-badge&label=Downloads&labelColor=32312f&color=fdf3e3" />
+  </a>
+  <img src="https://img.shields.io/badge/Platform-Windows-32312f?style=for-the-badge&color=fdf3e3&labelColor=32312f" />
+</div>
 
 Release repository for **LogMaru**.
 
@@ -11,6 +19,21 @@ This repository contains **release builds only**.
 Source code is not published here.
 
 ---
+
+## Features
+
+- 🗂 Categorized activity logging
+- ⏱ Time tracking
+- 📊 Visualized statistics
+- 💾 100% local storage
+- ⚡ Lightweight and simple UI
+- 🌙 Dark mode support
+
+## Screenshots
+
+Light Mode | Dark Mode
+--- | ---
+![Light](https://github.com/user-attachments/assets/601e97bc-0bbd-458b-bea4-1bcedca89bf5) | ![Dark](https://github.com/user-attachments/assets/9ded3c4b-9f92-41cf-9a6e-495bce69509b)
 
 ## Download
 
