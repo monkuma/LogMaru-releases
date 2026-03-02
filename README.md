@@ -1,6 +1,5 @@
 <div align="center">
   <h1>LogMaru</h1>
-  <br><br>
   <a href="https://github.com/monkuma/LogMaru-releases/releases/latest">
     <img src="https://img.shields.io/github/v/release/monkuma/LogMaru-releases?style=for-the-badge&label=Latest%20Release&labelColor=32312f&color=fdf3e3" />
   </a>
